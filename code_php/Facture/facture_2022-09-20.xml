@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListeFacture>
+  <Facture>
+    <Nom>Lucy Hailstone</Nom>
+    <Numero>3</Numero>
+    <Montant>800</Montant>
+    <Date-Paiement>2022-09-20</Date-Paiement>
+  </Facture>
+</ListeFacture>

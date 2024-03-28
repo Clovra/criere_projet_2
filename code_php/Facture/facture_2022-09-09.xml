@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListeFacture>
+  <Facture>
+    <Nom>Mohrir Rokah</Nom>
+    <Numero>2</Numero>
+    <Montant>140</Montant>
+    <Date-Paiement>2022-09-09</Date-Paiement>
+  </Facture>
+</ListeFacture>
